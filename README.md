@@ -1,3 +1,3 @@
 # Ts-typings
-Typescrip type declartions for:
+Typescript type declartions for:
 - google-map-react
