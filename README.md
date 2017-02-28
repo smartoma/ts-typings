@@ -1,3 +1,3 @@
 # Ts-typings
-Type declartions for libraries.
+Typescrip type declartions for:
 - google-map-react
